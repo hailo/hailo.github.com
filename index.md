@@ -9,10 +9,11 @@ Hailo is a a pluggable Markov engine intended to be a fast and
 scalable replacement for
 [MegaHAL](http://megahal.alioth.debian.org/). Hailo is written in Perl
 and uses a RDBMS (SQLite, PostgreSQL or MySQL) as a backend to store
-its brain. Unlike MegaHAL it can handle brains of arbitrary size
-(whatever your RDBMS can take), properly supports learning in any
-Unicode language and generates replies in a fraction of the time
-MegaHAL does.
+its brain.
+
+Unlike MegaHAL it can handle brains of arbitrary size (whatever your
+RDBMS can take), properly supports learning in any Unicode language
+and generates replies in a fraction of the time MegaHAL does.
 
 Hailo can be used either as a Perl module or via the `hailo`
 command-line interface. See [the main
