@@ -14,7 +14,7 @@ its brain. Unlike MegaHAL it can handle brains of arbitrary size
 Unicode language and generates replies in a fraction of the time
 MegaHAL does.
 
-Hailo can be used either as a Perl module or via the `hailo'
+Hailo can be used either as a Perl module or via the `hailo`
 command-line interface. See [the main
 documentation](http://search.cpan.org/dist/Hailo/lib/Hailo.pm) for
 more information.
