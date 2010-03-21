@@ -29,7 +29,7 @@ with
 [cpanminus](http://search.cpan.org/dist/App-cpanminus/lib/App/cpanminus.pm),
 for example:
 
-    sudo wget http://bit.ly/cpanm -O /usr/local/bin/cpanm
+    sudo wget http://cpanmin.us -O /usr/local/bin/cpanm
     sudo chmod +x /usr/local/bin/cpanm
     sudo cpanm Hailo
 
