@@ -31,7 +31,7 @@ for example:
 
     sudo wget http://cpanmin.us -O /usr/local/bin/cpanm
     sudo chmod +x /usr/local/bin/cpanm
-    sudo cpanm Hailo
+    cpanm --sudo Hailo
 
 ## Links
 
