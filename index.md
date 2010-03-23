@@ -33,6 +33,15 @@ for example:
     sudo chmod +x /usr/local/bin/cpanm
     cpanm --sudo Hailo
 
+## Support
+
+If you have any questions or issues, you can reach us in the
+[#hailo](irc://irc.freenode.org/hailo) IRC channel on FreeNode.
+
+You can submit bug reports at
+[rt.cpan.org](https://rt.cpan.org/Public/Dist/Display.html?Name=Hailo)
+or send them by email to [bug-Hailo@rt.cpan.org](mailto:bug-Hailo@rt.cpan.org).
+
 ## Links
 
  * The [Hailo project](http://github.com/hailo) on GitHub
