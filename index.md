@@ -29,8 +29,10 @@ with
 [cpanminus](http://search.cpan.org/dist/App-cpanminus/lib/App/cpanminus.pm),
 for example:
 
-    sudo wget http://cpanmin.us -O /usr/local/bin/cpanm
-    sudo chmod +x /usr/local/bin/cpanm
+    # install cpanminus if you haven't already
+    curl -L http://cpanmin.us | sudo perl - --self-upgrade
+
+    # install Hailo
     cpanm --sudo Hailo
 
 ## Support
