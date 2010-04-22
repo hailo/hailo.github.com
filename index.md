@@ -30,9 +30,9 @@ with
 for example:
 
     # install cpanminus if you haven't already
-    curl -L http://cpanmin.us | sudo perl - --self-upgrade
+    curl -L http://cpanmin.us | perl - --sudo --self-upgrade
 
-    # install Hailo
+    # install Hailo with cpanminus
     cpanm --sudo Hailo
 
 ## Support
